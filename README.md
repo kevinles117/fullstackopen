@@ -1,4 +1,4 @@
-#FullStackOpen
+# FullStackOpen
 
 Course that uses JavaScript that focuses on buliding single page applications with ReactJS that use REST APIs built with Node.js. Also has a section with GraphQL (a modern alternative to REST APIs). Uses MongoDB to store the application's data.
 
